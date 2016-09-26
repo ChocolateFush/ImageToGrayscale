@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2015\Projects\ImageToGrayscale\ImageToGrayscale\bin\Debug\ImageToGrayscale.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\ImageToGrayscale\ImageToGrayscale\bin\Debug\ImageToGrayscale.exe
+c:\users\michael\documents\visual studio 2015\Projects\ImageToGrayscale\ImageToGrayscale\bin\Debug\ImageToGrayscale.pdb
+c:\users\michael\documents\visual studio 2015\Projects\ImageToGrayscale\ImageToGrayscale\obj\Debug\ImageToGrayscale.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\ImageToGrayscale\ImageToGrayscale\obj\Debug\ImageToGrayscale.Form1.resources
+c:\users\michael\documents\visual studio 2015\Projects\ImageToGrayscale\ImageToGrayscale\obj\Debug\ImageToGrayscale.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\ImageToGrayscale\ImageToGrayscale\obj\Debug\ImageToGrayscale.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\ImageToGrayscale\ImageToGrayscale\obj\Debug\ImageToGrayscale.exe
+c:\users\michael\documents\visual studio 2015\Projects\ImageToGrayscale\ImageToGrayscale\obj\Debug\ImageToGrayscale.pdb
